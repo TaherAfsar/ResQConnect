@@ -38,29 +38,39 @@ To get started with ResQConnect, follow these steps:
 
 Install the necessary dependencies for the frontend by running:
 
-```bash
-npm install
+   ```bash
+   npm install
+```
 
 3. **Start the Frontend Application**
 
 Begin the ResQConnect frontend application:
 
-```bash
-npm start
+   ```bash
+   npm start
+```
+ **System Requirements**
 
-## System Requirements
+ 
 To run ResQConnect, you'll need the following:
 
 Node.js
 NPM (Node Package Manager)
 An active internet connection for real-time features
 
-##Technologies Used
+**Technologies Used**
+
+
 ResQConnect utilizes the following technologies:
 
 HTML, CSS, and JavaScript
+
 Node.js
+
 React.js
+
 Map API (Google Maps)
+
 Flutter
+
 Firebase
